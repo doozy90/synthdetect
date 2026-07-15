@@ -1,0 +1,9 @@
+streamlit
+tensorflow==2.19.0
+keras
+numpy
+pandas
+librosa
+matplotlib
+soundfile
+scikit-learn
